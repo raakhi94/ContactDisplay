@@ -1,3 +1,3 @@
 # ContactDisplay
-![DEMO](demoAnimations/Dummy.gif)
+![DEMO](Dummy.gif)
  
