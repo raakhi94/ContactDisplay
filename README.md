@@ -1,2 +1,2 @@
 # ContactDisplay
-![ALT TEXT](demoAnimations/Dummy.gif)
+![DEMO](demoAnimations/Dummy.gif)
